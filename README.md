@@ -3,7 +3,7 @@
 # Introduction 
 
 
-# 运行环境
+# Environment
 A Gomoku battle mini-game that runs on Linux.
 
 # Install
